@@ -1,0 +1,27 @@
+# 🔹 IntelliJ 설정 파일 (공유 불필요)
+.idea/
+*.iml
+
+# 🔹 Python 가상환경
+python/venv/
+
+# 🔹 Python 캐시 및 컴파일 파일
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+python/*.iml
+
+# 🔹 Java 빌드 결과물 (예: 클래스 파일, 실행 파일 등)
+*.class
+*.jar
+*.war
+*.log
+out/
+build/
+target/
+java/*.iml
+
+# 🔹 시스템 파일
+.DS_Store
+Thumbs.db
